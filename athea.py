@@ -8,7 +8,7 @@ def emailProcess():
             print(f"Emaildomain is {email_domain}")
             break
         else:
-            print("Your emailaddress is empty")
+            print("Your emailaddress is empty. Please try again")
             continue
             
 
